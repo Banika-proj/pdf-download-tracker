@@ -9,4 +9,4 @@ pages_build_output_dir = "."
 [[d1_databases]]
 binding = "DB"
 database_name = "desk-db"
-database_id = "PASTE_YOUR_D1_DATABASE_ID_HERE"
+database_id = "be18e93f-c7c0-48ed-a657-e1e275585a53"
